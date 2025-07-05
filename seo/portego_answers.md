@@ -134,39 +134,43 @@ Four-phase 12-month implementation:
 
 **Q3b: Please outline how you are planning to make use of the financial support (up to €40,000) provided by the Accelerator programme. If possible, indicate the allocation of budget to the different project activities (e.g. events, material, staff).**
 
-The €40,000 in financial support will be strategically allocated to maximize impact and ensure the successful launch and validation of our model. The budget is as follows:
+€40,000 strategic allocation:
 
-*   **Technology Development & Infrastructure (€15,000):** This covers the core development of our blockchain platform, mobile app interface, server costs, and security audits. This is our largest expense, as robust technology is the backbone of our solution.
-*   **Pilot Program Operations (€10,000):** This funds on-the-ground activities in Awka, including setting up the first collection hub (rent, branding, equipment like scales), initial token float for incentives, and logistics for transporting plastic to recyclers.
-*   **Community Engagement & Marketing (€7,000):** Allocated for conducting training workshops, developing educational materials (flyers, banners), and executing a digital marketing campaign to drive awareness and adoption.
-*   **Personnel & Administration (€5,000):** Provides a modest stipend for our 3-person core team and covers essential administrative costs like legal fees, communication, and transportation.
-*   **Contingency (€3,000):** A crucial reserve to address unforeseen challenges or capitalize on emerging opportunities during the pilot phase.
+**Technology Development (€15,000):** Blockchain platform development, mobile app interface, server costs, security audits. Largest expense as technology is our solution backbone.
+
+**Pilot Operations (€10,000):** Awka activities—collection hub setup (rent, branding, scales), initial token float for incentives, logistics for plastic transport to recyclers.
+
+**Community Engagement (€7,000):** Training workshops, educational materials (flyers, banners), digital marketing campaign for awareness/adoption.
+
+**Personnel & Administration (€5,000):** 3-person team stipend, administrative costs (legal fees, communication, transportation).
+
+**Contingency (€3,000):** Reserve for unforeseen challenges or emerging opportunities during pilot phase.
 
 ---
 
 **Q3c: In case you are planning to market any outputs/outcomes that your project delivers, please describe how.**
 
-We plan to market two primary outputs: **Certified Recycled Plastic** and **Impact as a Service**.
+Two primary outputs: **Certified Recycled Plastic** and **Impact as a Service**.
 
-1.  **Marketing Certified Recycled Plastic:**
-    *   **Target Audience:** FMCG companies, manufacturers, and packaging producers who are committed to sustainability and require a reliable source of post-consumer recycled (PCR) materials.
-    *   **Marketing Strategy:** We will market this as "RePlas Certified" plastic. The core value proposition is **traceability**. Our blockchain ledger provides an immutable record of the plastic's origin, verifying that it was ethically sourced and diverted from the ocean. We will engage potential clients through industry networks, sustainability conferences, and direct B2B outreach, highlighting how using our certified plastic can enhance their brand's green credentials.
+**Certified Recycled Plastic:**
+Target: FMCG companies, manufacturers, packaging producers needing reliable post-consumer recycled materials.
+Strategy: Market as "RePlas Certified" plastic with blockchain traceability—immutable record of origin, verifying ethical sourcing and ocean diversion. Engage through industry networks, sustainability conferences, B2B outreach, highlighting enhanced brand green credentials.
 
-2.  **Marketing Impact as a Service:**
-    *   **Target Audience:** Corporations with CSR budgets, international foundations, and ESG-focused investors.
-    *   **Marketing Strategy:** We will offer "plastic offset" or "community impact" packages. Companies can fund our operations or sponsor token redemptions in exchange for verified, transparent reports on the social and environmental impact their investment generates. This will be marketed through our website, impact reports, and partnerships with corporate sustainability platforms.
+**Impact as a Service:**
+Target: Corporations with CSR budgets, international foundations, ESG-focused investors.
+Strategy: Offer "plastic offset" or "community impact" packages. Companies fund operations/sponsor tokens for verified impact reports. Market through website, impact reports, corporate sustainability platforms.
 
 ---
 
 **Q3d: How are you planning to continue, grow or replicate your solution after the Accelerator programme ends?**
 
-Our strategy for post-accelerator sustainability is built on three pillars: Growth, Replication, and Diversification.
+Three-pillar post-accelerator strategy: Growth, Replication, Diversification.
 
-*   **Growth:** We will focus on deepening our penetration in our pilot city, Awka, by increasing the number of collection hubs and partnering with more local businesses. The goal is to achieve operational profitability at a city-wide level within 18 months post-programme. This will be fueled by revenue from the sale of recycled plastic and corporate partnerships.
+**Growth:** Deepen Awka penetration—increase collection hubs, partner with local businesses. Achieve city-wide operational profitability within 18 months through recycled plastic sales and corporate partnerships.
 
-*   **Replication:** Our model is designed for scalability. We will develop a "Replication Playbook" based on the Awka pilot, allowing us to efficiently launch in new coastal cities and riverine states across Nigeria. We will target regions with high plastic leakage rates, replicating our community engagement and partnership models.
+**Replication:** Develop "Replication Playbook" from Awka pilot for efficient launch in new coastal cities/riverine states. Target high plastic leakage regions, replicating community engagement and partnership models.
 
-*   **Diversification & Further Funding:** We will seek a seed funding round of ~€250,000 post-accelerator to finance our replication strategy. We will also explore diversifying revenue streams, such as developing our own line of products from the recycled plastic or offering data analytics services on waste flows to municipalities.
+**Diversification & Funding:** Seek ~€250,000 seed round for replication strategy. Explore revenue diversification: own recycled plastic product line, data analytics services on waste flows to municipalities. Unlike existing players limited by informal systems, our transparent model attracts impact investors.
 
 ---
 
@@ -174,23 +178,23 @@ Our strategy for post-accelerator sustainability is built on three pillars: Grow
 
 **Q4a: Please elaborate how your solution will engage/ integrate / benefit local communities and/ or other local stakeholders.**
 
-Unlike existing players who rely on informal payment systems, RePlas creates transparent community value through blockchain-verified transactions.
+Unlike existing players using informal payments, RePlas creates transparent community value through blockchain-verified transactions.
 
-*   **Addressing Current System Failures:** Where companies like Octopi and LAWMA struggle with inconsistent collection (only 20-30% of Nigeria's waste is properly managed), our token-incentive model ensures reliable community participation through guaranteed, transparent payments.
+**System Failures:** Where Octopi/LAWMA achieve only 20-30% collection rates, our token-incentive model ensures reliable participation through guaranteed, transparent payments.
 
-*   **Filling Institutional Gaps:** WAPAN data shows <10% recycling rates due to mixed waste streams. Our app educates collectors on proper sorting, addressing the core challenge that limits companies like Anthophila Limited's processing efficiency.
+**Institutional Gaps:** WAPAN data shows <10% recycling due to mixed waste. Our app educates collectors on sorting, addressing challenges limiting Anthophila Limited's efficiency.
 
-*   **Financial Inclusion:** Digital tokens provide banking access to informal waste pickers currently excluded from formal financial systems—unlike cash-only models used by existing recyclers.
+**Financial Inclusion:** Digital tokens provide banking access for informal pickers excluded from formal systems—unlike cash-only models.
 
-*   **Skills Development:** Training on digital literacy and waste segregation prepares communities for Nigeria's emerging circular economy, building capacity beyond current NGO models like TURN Plastic's limited educational programs.
+**Skills Development:** Digital literacy/waste segregation training prepares communities for circular economy, building capacity beyond TURN Plastic's limited programs.
 
-*   **Environmental Justice:** By ensuring fair compensation for waste collection, we address the exploitation of informal workers in the current system while improving local environmental conditions that affect flooding and public health in Awka.
+**Environmental Justice:** Fair compensation addresses informal worker exploitation while improving flooding/health conditions in Awka.
 
 ---
 
 **Q4b: In case you are applying with a partner organisation, please elaborate how you will cooperate during the implementation of your solution.**
 
-N/A. At this stage, RePlas is applying as a single organization. However, our model is fundamentally collaborative, and we will be working in close cooperation with numerous local partners, including community-based organizations (CBOs), recycling companies, and local government authorities, who will be integral to our implementation.
+N/A. RePlas applies as single organization. However, our model is fundamentally collaborative—working closely with local partners including community-based organizations, recycling companies, and government authorities integral to implementation. Unlike existing fragmented approaches, our blockchain platform creates unified ecosystem connecting all stakeholders through transparent value exchange, addressing coordination challenges that limit current players like WAPAN and LAWMA from achieving scale. Our tokenization creates shared incentives missing in current informal systems, enabling systematic collaboration across the value chain from collection to processing.
 
 ---
 
@@ -211,12 +215,12 @@ We are in advanced discussions with established organizations in Nigeria's waste
 
 **Q4d: Please elaborate why your team is fitting to implement the solution. How are you planning to use your existing experience/knowledge/assets in carrying out your proposed activities?**
 
-Our founding team of three is uniquely positioned for success due to our synergistic blend of technical expertise, local knowledge, and a shared passion for environmental justice.
+Our 3-person team combines technical expertise, local knowledge, and environmental justice passion.
 
-*   **Technical Leadership:** Our lead developer has extensive experience in building scalable software solutions and a deep understanding of blockchain principles, ensuring we can deliver a secure and robust technology platform.
+**Technical Leadership:** Lead developer with scalable software experience and blockchain expertise, ensuring secure, robust platform delivery.
 
-*   **Community Engagement & Operations:** Our operations lead has a background in community organizing and project management within Nigeria. This hands-on experience is critical for navigating local cultural dynamics, building trust with community members in Awka, and managing the on-the-ground logistics of our collection network.
+**Community Engagement:** Operations lead with Nigerian community organizing and project management background. Critical for navigating local dynamics, building Awka community trust, managing collection network logistics.
 
-*   **Strategic Vision & Partnerships:** Our strategy lead brings experience in business development and environmental advocacy. This knowledge is vital for crafting a sustainable business model, communicating our vision to investors, and forging the high-level partnerships with corporations and government agencies that are essential for our long-term growth.
+**Strategic Vision:** Strategy lead with business development and environmental advocacy experience. Essential for sustainable business model, investor communication, high-level corporate/government partnerships.
 
-Together, we combine the "what" (the technology), the "how" (the operations), and the "why" (the vision), making us a lean, agile, and highly capable team to execute this ambitious but critical mission. 
+We combine "what" (technology), "how" (operations), "why" (vision)—lean, agile team executing this mission. Unlike existing players lacking integrated approach, our diverse skills address all ecosystem challenges from technology to community engagement. 
